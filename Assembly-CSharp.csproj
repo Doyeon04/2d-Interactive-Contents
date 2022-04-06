@@ -54,6 +54,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\cshPlayerController.cs" />
+    <Compile Include="Assets\Scripts\cshCannonBall.cs" />
+    <Compile Include="Assets\Scripts\cshDestroyObj.cs" />
+    <Compile Include="Assets\Scripts\cshChickGenerator.cs" />
+    <Compile Include="Assets\Scripts\cshItemGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
